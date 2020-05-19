@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "756650299629",
+    "firebase_url": "https://journal-app-bac4c.firebaseio.com",
+    "project_id": "journal-app-bac4c",
+    "storage_bucket": "journal-app-bac4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756650299629:android:7b3787ff17349192a77ce4",
+        "android_client_info": {
+          "package_name": "com.studentproject.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756650299629-sdqr9kag0rv5qhjkdj0bsvkda479n0nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studentproject.journalapp",
+            "certificate_hash": "1c7077fcce09c887485057f7dce2f677ce26e727"
+          }
+        },
+        {
+          "client_id": "756650299629-e3o5efke0n56nbrc3a8s2d86gld6lj1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl1Yxu0JdLml1GbICkkdcnF0_CLFe-nic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756650299629-e3o5efke0n56nbrc3a8s2d86gld6lj1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
